@@ -214,6 +214,18 @@
 			"Rev": "e444e69cbd2e2e3e0749a2f3c717cec491552bbf"
 		},
 		{
+			"ImportPath": "github.com/guoyao/baidubce-sdk-go/bce",
+			"Rev": "f0b2d11bdf15cc3a844b06f9ccd69573c7423f88"
+		},
+		{
+			"ImportPath": "github.com/guoyao/baidubce-sdk-go/bos",
+			"Rev": "f0b2d11bdf15cc3a844b06f9ccd69573c7423f88"
+		},
+		{
+			"ImportPath": "github.com/guoyao/baidubce-sdk-go/util",
+			"Rev": "f0b2d11bdf15cc3a844b06f9ccd69573c7423f88"
+		},
+		{
 			"ImportPath": "github.com/inconshreveable/mousetrap",
 			"Rev": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75"
 		},
